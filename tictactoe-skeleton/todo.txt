@@ -1,0 +1,1 @@
+current player label : x or o depending on current player mark
